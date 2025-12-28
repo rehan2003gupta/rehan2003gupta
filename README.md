@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently working on react.js<br>im working on project employee retention model using python machine learning<br>i have project projects with java jdbc sql ,python , js.<br>i am looking for job in software engineering field or as a developer .<br>i have knowledge of basic data science.<br>intermediate level of problem solver as i have solved near about 400 + leetcode questions<br>
+Aspiring Software Engineer / Developer with hands-on experience in React.js, Java (JDBC & SQL), Python, and JavaScript<br>Currently working on an Employee Retention Prediction Model using Python and Machine Learning, applying data analysis and basic data science concepts to real-world business problems.<br>Developed multiple projects across full-stack and backend development, showcasing strong logical thinking and problem-solving skills.<br>Solved 400+ LeetCode problems, demonstrating an intermediate-to-advanced understanding of Data Structures and Algorithms.<br>Capable of writing efficient, optimized, and scalable code following best practices.<br>Actively seeking opportunities in the software engineering or developer domain to apply technical expertise, continuously learn, and contribute to building impactful software solutions.<br>
 
 
 ## 🌐 Socials:
